@@ -1,0 +1,17 @@
+.button{
+    background-color: rgb(76, 231, 154, 0.7);
+    padding-inline: 40px;
+    padding-block: 10px;
+    text-align: center;
+    font-size: 15px;
+    margin: 40px;
+    border-radius: 15px;
+    border-style:inset;
+    border-color: black;
+    border-bottom-left-radius:1px ;
+    border-top-right-radius: 1px;
+    
+}
+.button:hover{
+    background-color: rgb(76, 231, 154,1);
+}
